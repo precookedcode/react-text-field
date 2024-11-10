@@ -1,7 +1,7 @@
 {
   "name": "@precooked/react-text-field",
   "version": "1.0.0",
-  "description": "Componente reutilizable para proyectos React",
+  "description": "Reusable component for React projects",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -10,7 +10,9 @@
   },
   "author": "Roberto Carraro",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "@precooked/utils": "^1.0.4"
+  },
   "devDependencies": {
     "@types/react": "^18.3.11",
     "typescript": "^5.6.3"
