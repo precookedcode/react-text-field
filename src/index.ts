@@ -1,1 +1,1 @@
-export { default as ColorField } from "./TextField";
+export { default as TextField } from "./TextField";
